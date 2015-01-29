@@ -4,6 +4,8 @@ SP579 Assembler Simulator
 An assembler for a theoretical assembly machine called SP579 in C#.
 In this application you write the assembly code to generate a byte code that goes into the Linker. 
 
+Mashine Description: [http://goo.gl/oOXBNY](http://goo.gl/oOXBNY)
+
 #####Copyright © 2014 iboalali
 
 Licensed under the Apache License, Version 2.0 (the "License");
