@@ -1,4 +1,4 @@
-SP579 Assembler Simulator
+SP579 Assembler
 ===================
 
 An assembler for a theoretical assembly machine called SP579 in C#.
